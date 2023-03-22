@@ -1,2 +1,2 @@
 # xiaonancheng.github.io
-这是一个圣诞树项目
+这是关于我的个人主页介绍的项目
